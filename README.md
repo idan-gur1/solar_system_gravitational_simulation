@@ -1,6 +1,6 @@
 # Solar System Gravitational Simulation
 
-Python-based physics simulation that allows you to explore the gravitational interactions between planets within our solar system. The simulation accurately models the motion of the planets, based on their masses, positions, and velocities, providing a visual representation of their orbits and interactions.
+Python-based physics simulation that allows you to explore the gravitational interactions between planets within our solar system. The simulation accurately models the motion of the first four planets, based on their masses, positions, and velocities, providing a visual representation of their orbits and interactions.
 <br>
 ## Demo Video
 <br>
